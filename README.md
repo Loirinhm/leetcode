@@ -1,3 +1,3 @@
 # Leetcode - Problems
 
-Here are the rosolutions for some of the problems find at the LeetCode website.
+Here are the resolutions for some of the problems find at the LeetCode website.
